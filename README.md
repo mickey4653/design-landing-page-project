@@ -1,5 +1,8 @@
+# link to the website (PS."Not perfect lol but it's alright")
+https://design-landin-page.netlify.app/
+
 # design-landing-page-project
- Just Learning how to use Astro with my design on Figma
+ Just Learning how to use Astro with my design on Figma 
 
 # Astro Starter Kit: Basics
 
