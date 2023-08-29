@@ -1,0 +1,25 @@
+{
+  "name": "major-main",
+  "type": "module",
+  "version": "0.0.1",
+  "browserslist": [
+    "defaults"
+  ],
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^2.10.11",
+    "astro-icon": "^0.8.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "open-props": "^1.5.13",
+    "postcss": "^8.4.28",
+    "postcss-jit-props": "^1.0.13"
+  }
+}
